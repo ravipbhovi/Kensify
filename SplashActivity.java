@@ -43,6 +43,8 @@ public class SplashActivity extends AppCompatActivity {
     }
 
     public void setActivityWindow(){
+        
+        //Window-Display Settings page
        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             getWindow().setNavigationBarColor(getResources().getColor(R.color.app_colour));
         }
@@ -52,6 +54,8 @@ public class SplashActivity extends AppCompatActivity {
         }
 
         //getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR);
+        
+        
 
     }
 }
