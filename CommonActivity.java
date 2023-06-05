@@ -3,7 +3,7 @@ package com.andevpro.app;
 import androidx.appcompat.app.AppCompatActivity;
 
 
-public class SplashActivity extends AppCompatActivity {
+public class CommonActivity extends AppCompatActivity {
 
    
 
