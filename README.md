@@ -1,7 +1,9 @@
 List of Activities
-1. MainActivity.java
-2. HomePage.java -> UserStatistics.java
-3. FieldProfile.java
-4. QuestionActivity.java -> QuizPlatform.java(fragment)
-5. PointsBoard.java
-6. QuizReview.java
+
+1. SplashScreen
+2. Main
+3. Topics (List of All Topics)
+4. TopicProfile (Topic's All Quizzes)
+5. Quiz (Quiz Activity)
+6. Scoreboard (Quiz Result)
+7. Review (Quiz Review)
